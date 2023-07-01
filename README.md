@@ -1,4 +1,8 @@
 # my-new-project
+```
+This is my first project I made using Vue JS
+```
+
 
 ## Project setup
 ```
